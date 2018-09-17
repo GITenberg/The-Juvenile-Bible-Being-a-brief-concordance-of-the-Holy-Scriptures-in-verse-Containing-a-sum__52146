@@ -1,8 +1,5 @@
 _repo: The-Juvenile-Bible-Being-a-brief-concordance-of-the-Holy-Scriptures-in-verse-Containing-a-sum__52146
-_version: 0.1.0
-covers:
-- cover_type: archival
-  image_path: 52146-h/images/cover.png
+_version: 0.0.1
 creator:
   author:
     agent_name: Anonymous
@@ -13,8 +10,6 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
-edition_identifiers:
-  edition_id: http://www.gutenberg.org/ebooks/52146#The-Juvenile-Bible-Being-a-brief-concordance-of-the-Holy-Scriptures-in-verse-Containing-a-sum_
 gutenberg_issued: '2016-05-23'
 gutenberg_type: Text
 identifiers:
@@ -24,9 +19,8 @@ publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
 subjects:
-- !lcsh 'Bible -- Juvenile literature'
 - !lcc 'BS'
-- GITenberg
+- !lcsh 'Bible -- Juvenile literature'
 title: "The Juvenile Bible: Being a brief concordance of the Holy Scriptures, in verse.\r\
   \nContaining a summary of all the chapters in the books of the Old and New Testament,\
   \ from Genesis to the Revelation, alphabetically arranged, and admirably adapted\
