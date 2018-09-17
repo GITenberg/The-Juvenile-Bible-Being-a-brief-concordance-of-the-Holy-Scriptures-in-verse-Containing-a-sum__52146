@@ -1,5 +1,5 @@
 _repo: The-Juvenile-Bible-Being-a-brief-concordance-of-the-Holy-Scriptures-in-verse-Containing-a-sum__52146
-_version: 0.0.1
+_version: 0.0.2
 creator:
   author:
     agent_name: Anonymous
@@ -10,6 +10,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52146#The-Juvenile-Bible-Being-a-brief-concordance-of-the-Holy-Scriptures-in-verse-Containing-a-sum_
 gutenberg_issued: '2016-05-23'
 gutenberg_type: Text
 identifiers:
